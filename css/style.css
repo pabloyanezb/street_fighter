@@ -16,7 +16,9 @@
 	border: 3px solid black;
 	left: 260px;
 }
-
+*{
+	color: white;
+}
 }
 h1{
 	font-size:16px;
@@ -28,5 +30,6 @@ h2{
 	font-size:14px;
 }
 body{
-	background-color: rgb(122, 71, 71);
+	background: rgb(124,111,114);
+	background: linear-gradient( rgb(0, 0, 0) 0%, rgb(71, 0, 0) 100%);
 }
